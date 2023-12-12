@@ -1,0 +1,42 @@
+body{
+    background: rgb(82, 80, 80);
+}
+
+table{
+    width: 100%;
+    color: #fff;
+    background: #343a40;
+    border: 1px solid #dee2e6;
+    border-radius: 15px;
+}
+thead{
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr{
+    display: table-row;
+    vertical-align: inherit;
+}
+th{
+    width: 9%;
+}
+thead th{
+    border: none;
+    padding: 20px;
+    font-size: 14px;
+    color: #fff;
+    border-bottom: 7px solid #2b3035;
+}
+.datos th{
+    font-size: 12px;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+.datos:hover{
+    background: #444c53;
+}
+
+
+
+
+
